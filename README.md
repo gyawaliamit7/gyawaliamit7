@@ -30,8 +30,3 @@ Here are some ideas to get you started:
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gyawaliamit7&show_icons=true&hide_border=true" />
 
 
-[twitter]: https://twitter.com/gyawaliamit7
-[youtube]: https://youtube.com/channel/UCqRu5m6P6wx1n6m77gqrrAQ
-[instagram]: https://www.instagram.com/amit.lfc.gyawali
-[linkedin]: https://linkedin.com/in/gyawaliamit
-
