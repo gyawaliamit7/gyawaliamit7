@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 
 <br>
 
-### Github Stats
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gyawaliamit7&show_icons=true&hide_border=true" />
-
 
